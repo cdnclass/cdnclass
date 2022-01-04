@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cdnclass
-- 👀 I’m interested in Python, Julia, Rust, go and Streamlit
-- 🌱 I’m currently learning Rust, go and Streamlit
-- 💞️ I’m looking to collaborate on generative art, game, other interesting opensource projects
+- 👀 I’m interested in cloud technology, Python, Julia, Rust, go and Streamlit
+- 🌱 I’m currently learning Micrsoft Azure, AWS And GPC, Rust, go and Streamlit
+- 💞️ I’m looking to collaborate on generative art, DFI and NFT, game, other interesting opensource projects
 - 📫 How to reach me https://www.linkedin.com/in/jsummer/
 
 <!---
